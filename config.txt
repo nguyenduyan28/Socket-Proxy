@@ -1,0 +1,3 @@
+whitelisting = example.com, testphp.vulnweb.com, detectportal.firefox.com, oosc.online, google.com, bing.com, vbsca.ca, http://vbsca.ca/login/, shippingchina.com, info.cern.ch
+time = 8-24
+cache_time = 10
